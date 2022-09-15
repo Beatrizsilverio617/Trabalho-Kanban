@@ -1,0 +1,29 @@
+.background{
+    background-image: url(background.jpg);
+    background-repeat:no-repeat !important;
+    background-size: 100%;
+    overflow: auto;
+}
+.titulo{
+    text-align: center;
+}
+.nomes{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+}
+.texto{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+.fim{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+.botao{
+    background-color: white;
+    border-color: white;
+    border-radius: 10px;
+}
